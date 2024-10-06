@@ -1,0 +1,25 @@
+@charset "utf-8";
+.col-lg-4 .card.col-md-4.offset-lg-1.col-lg-10 .teamimg 
+{
+ 
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid #fff;
+    padding: 3px;
+    background: black;
+}
+textarea
+{
+	width: 80%;
+	height: 100px;
+	border: none;
+}
+.inputbg
+{
+	background-color: #d9d7d4;
+}
+.red
+{
+	color: red;
+}
